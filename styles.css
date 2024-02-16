@@ -118,7 +118,6 @@ body {
   display: flex;
   justify-content: center;
   width: 100%;
-  border: 1px solid red;
 }
 .save-content {
   margin-left: 100px;
